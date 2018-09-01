@@ -1,7 +1,7 @@
 # divitopia-back
 
 
-Fetching data used for price conversation from free APIs evey 5min/1hr (because of request frequency limitations) and making it available at /fiat.json and /crypto.json.
+Fetching data used for price conversation from free APIs evey 5min/1hr (because of request frequency limitations) and making it available at info/fiat.json and info/crypto.json.
 
 
 ##### CRONJOBS
