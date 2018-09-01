@@ -4,7 +4,7 @@
 Fetching data used for price conversation from free APIs evey 5min/1hr (because of request frequency limitations) and making it available at /fiat.json and /crypto.json.
 
 
-#####CRONJOBS
+##### CRONJOBS
 
 Fiat prices - max 1000 request each month (~1 request per hour)
 
@@ -15,11 +15,11 @@ Crypto prices - max 30 requests per minute & API is updated every 5min
 */5 * * * * fetch-crypto.sh
 
 
-#####REQUIREMENTS
+##### REQUIREMENTS
 
 Python 3+
 
-#####RUN
+##### RUN
 
 example:
 
