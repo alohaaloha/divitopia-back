@@ -1,0 +1,2109 @@
+{
+    "data": [
+        {
+            "id": 1, 
+            "name": "Bitcoin", 
+            "symbol": "BTC", 
+            "website_slug": "bitcoin", 
+            "rank": 1, 
+            "circulating_supply": 17243637.0, 
+            "total_supply": 17243637.0, 
+            "max_supply": 21000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 7050.11118908, 
+                    "volume_24h": 4332329097.99812, 
+                    "market_cap": 121569558154.0, 
+                    "percent_change_1h": -0.62, 
+                    "percent_change_24h": 1.33, 
+                    "percent_change_7d": 4.83
+                }
+            }, 
+            "last_updated": 1535804962
+        }, 
+        {
+            "id": 1027, 
+            "name": "Ethereum", 
+            "symbol": "ETH", 
+            "website_slug": "ethereum", 
+            "rank": 2, 
+            "circulating_supply": 101687178.0, 
+            "total_supply": 101687178.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 285.561890951, 
+                    "volume_24h": 1369969923.85934, 
+                    "market_cap": 29037982710.0, 
+                    "percent_change_1h": -0.81, 
+                    "percent_change_24h": 1.84, 
+                    "percent_change_7d": 1.9
+                }
+            }, 
+            "last_updated": 1535804977
+        }, 
+        {
+            "id": 52, 
+            "name": "XRP", 
+            "symbol": "XRP", 
+            "website_slug": "ripple", 
+            "rank": 3, 
+            "circulating_supply": 39650153121.0, 
+            "total_supply": 99991852985.0, 
+            "max_supply": 100000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.3374652259, 
+                    "volume_24h": 226151636.769826, 
+                    "market_cap": 13380547881.0, 
+                    "percent_change_1h": -0.96, 
+                    "percent_change_24h": 1.96, 
+                    "percent_change_7d": 3.3
+                }
+            }, 
+            "last_updated": 1535804942
+        }, 
+        {
+            "id": 1831, 
+            "name": "Bitcoin Cash", 
+            "symbol": "BCH", 
+            "website_slug": "bitcoin-cash", 
+            "rank": 4, 
+            "circulating_supply": 17324563.0, 
+            "total_supply": 17324563.0, 
+            "max_supply": 21000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 558.993273423, 
+                    "volume_24h": 317421177.868937, 
+                    "market_cap": 9684313902.0, 
+                    "percent_change_1h": -0.81, 
+                    "percent_change_24h": 3.53, 
+                    "percent_change_7d": 4.88
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1765, 
+            "name": "EOS", 
+            "symbol": "EOS", 
+            "website_slug": "eos", 
+            "rank": 5, 
+            "circulating_supply": 906245118.0, 
+            "total_supply": 1006245120.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 6.5769799644, 
+                    "volume_24h": 908980419.485588, 
+                    "market_cap": 5960355981.0, 
+                    "percent_change_1h": -1.06, 
+                    "percent_change_24h": 5.59, 
+                    "percent_change_7d": 31.62
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 512, 
+            "name": "Stellar", 
+            "symbol": "XLM", 
+            "website_slug": "stellar", 
+            "rank": 6, 
+            "circulating_supply": 18773338184.0, 
+            "total_supply": 104244271426.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.2244423271, 
+                    "volume_24h": 51254802.6178794, 
+                    "market_cap": 4213531710.0, 
+                    "percent_change_1h": -0.76, 
+                    "percent_change_24h": 2.36, 
+                    "percent_change_7d": 3.46
+                }
+            }, 
+            "last_updated": 1535804954
+        }, 
+        {
+            "id": 2, 
+            "name": "Litecoin", 
+            "symbol": "LTC", 
+            "website_slug": "litecoin", 
+            "rank": 7, 
+            "circulating_supply": 58099954.0, 
+            "total_supply": 58099954.0, 
+            "max_supply": 84000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 63.3295725776, 
+                    "volume_24h": 286319993.251468, 
+                    "market_cap": 3679445240.0, 
+                    "percent_change_1h": -1.31, 
+                    "percent_change_24h": 4.96, 
+                    "percent_change_7d": 9.62
+                }
+            }, 
+            "last_updated": 1535804940
+        }, 
+        {
+            "id": 825, 
+            "name": "Tether", 
+            "symbol": "USDT", 
+            "website_slug": "tether", 
+            "rank": 8, 
+            "circulating_supply": 2742140336.0, 
+            "total_supply": 3080109502.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.9985386666, 
+                    "volume_24h": 2647769064.87155, 
+                    "market_cap": 2738133154.0, 
+                    "percent_change_1h": -0.09, 
+                    "percent_change_24h": -0.35, 
+                    "percent_change_7d": -0.13
+                }
+            }, 
+            "last_updated": 1535804962
+        }, 
+        {
+            "id": 2010, 
+            "name": "Cardano", 
+            "symbol": "ADA", 
+            "website_slug": "cardano", 
+            "rank": 9, 
+            "circulating_supply": 25927070538.0, 
+            "total_supply": 31112483745.0, 
+            "max_supply": 45000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1041803726, 
+                    "volume_24h": 50689394.2830416, 
+                    "market_cap": 2701091869.0, 
+                    "percent_change_1h": -1.03, 
+                    "percent_change_24h": 3.92, 
+                    "percent_change_7d": 11.47
+                }
+            }, 
+            "last_updated": 1535804961
+        }, 
+        {
+            "id": 1720, 
+            "name": "IOTA", 
+            "symbol": "MIOTA", 
+            "website_slug": "iota", 
+            "rank": 10, 
+            "circulating_supply": 2779530283.0, 
+            "total_supply": 2779530283.0, 
+            "max_supply": 2779530283.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.7292217751, 
+                    "volume_24h": 54259586.5344624, 
+                    "market_cap": 2026894007.0, 
+                    "percent_change_1h": -1.63, 
+                    "percent_change_24h": 2.69, 
+                    "percent_change_7d": 37.48
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 328, 
+            "name": "Monero", 
+            "symbol": "XMR", 
+            "website_slug": "monero", 
+            "rank": 11, 
+            "circulating_supply": 16368453.0, 
+            "total_supply": 16368453.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 120.771303206, 
+                    "volume_24h": 63493057.7222745, 
+                    "market_cap": 1976839408.0, 
+                    "percent_change_1h": -1.1, 
+                    "percent_change_24h": 11.5, 
+                    "percent_change_7d": 29.73
+                }
+            }, 
+            "last_updated": 1535804950
+        }, 
+        {
+            "id": 131, 
+            "name": "Dash", 
+            "symbol": "DASH", 
+            "website_slug": "dash", 
+            "rank": 12, 
+            "circulating_supply": 8289872.0, 
+            "total_supply": 8289872.0, 
+            "max_supply": 18900000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 210.286562354, 
+                    "volume_24h": 342140657.919151, 
+                    "market_cap": 1743248585.0, 
+                    "percent_change_1h": 0.52, 
+                    "percent_change_24h": 13.09, 
+                    "percent_change_7d": 47.07
+                }
+            }, 
+            "last_updated": 1535804947
+        }, 
+        {
+            "id": 1958, 
+            "name": "TRON", 
+            "symbol": "TRX", 
+            "website_slug": "tron", 
+            "rank": 13, 
+            "circulating_supply": 65748111645.0, 
+            "total_supply": 99000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0255045574, 
+                    "volume_24h": 107346069.735583, 
+                    "market_cap": 1676876489.0, 
+                    "percent_change_1h": -1.09, 
+                    "percent_change_24h": 2.41, 
+                    "percent_change_7d": 18.4
+                }
+            }, 
+            "last_updated": 1535804972
+        }, 
+        {
+            "id": 1376, 
+            "name": "NEO", 
+            "symbol": "NEO", 
+            "website_slug": "neo", 
+            "rank": 14, 
+            "circulating_supply": 65000000.0, 
+            "total_supply": 100000000.0, 
+            "max_supply": 100000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 21.2091745195, 
+                    "volume_24h": 67958703.905107, 
+                    "market_cap": 1378596344.0, 
+                    "percent_change_1h": -1.14, 
+                    "percent_change_24h": 7.67, 
+                    "percent_change_7d": 19.08
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1321, 
+            "name": "Ethereum Classic", 
+            "symbol": "ETC", 
+            "website_slug": "ethereum-classic", 
+            "rank": 15, 
+            "circulating_supply": 104216349.0, 
+            "total_supply": 104216349.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 12.9915941085, 
+                    "volume_24h": 188194695.704314, 
+                    "market_cap": 1353936506.0, 
+                    "percent_change_1h": -0.4, 
+                    "percent_change_24h": 1.83, 
+                    "percent_change_7d": 3.63
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 1839, 
+            "name": "Binance Coin", 
+            "symbol": "BNB", 
+            "website_slug": "binance-coin", 
+            "rank": 16, 
+            "circulating_supply": 95512523.0, 
+            "total_supply": 192443301.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 11.2481119144, 
+                    "volume_24h": 27841832.2143271, 
+                    "market_cap": 1074335549.0, 
+                    "percent_change_1h": -0.79, 
+                    "percent_change_24h": 4.53, 
+                    "percent_change_7d": 11.86
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 3077, 
+            "name": "VeChain", 
+            "symbol": "VET", 
+            "website_slug": "vechain", 
+            "rank": 17, 
+            "circulating_supply": 55454734800.0, 
+            "total_supply": 86712634466.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0175901983, 
+                    "volume_24h": 26190837.9244077, 
+                    "market_cap": 975459783.0, 
+                    "percent_change_1h": -0.22, 
+                    "percent_change_24h": 2.98, 
+                    "percent_change_7d": 18.46
+                }
+            }, 
+            "last_updated": 1535804984
+        }, 
+        {
+            "id": 873, 
+            "name": "NEM", 
+            "symbol": "XEM", 
+            "website_slug": "nem", 
+            "rank": 18, 
+            "circulating_supply": 8999999999.0, 
+            "total_supply": 8999999999.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1072320804, 
+                    "volume_24h": 12449727.0925459, 
+                    "market_cap": 965088724.0, 
+                    "percent_change_1h": -2.31, 
+                    "percent_change_24h": 4.23, 
+                    "percent_change_7d": 5.02
+                }
+            }, 
+            "last_updated": 1535804961
+        }, 
+        {
+            "id": 2011, 
+            "name": "Tezos", 
+            "symbol": "XTZ", 
+            "website_slug": "tezos", 
+            "rank": 19, 
+            "circulating_supply": 607489041.0, 
+            "total_supply": 763306930.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.3835729894, 
+                    "volume_24h": 1891591.26505135, 
+                    "market_cap": 840505428.0, 
+                    "percent_change_1h": 0.1, 
+                    "percent_change_24h": 3.01, 
+                    "percent_change_7d": 4.78
+                }
+            }, 
+            "last_updated": 1535804961
+        }, 
+        {
+            "id": 1437, 
+            "name": "Zcash", 
+            "symbol": "ZEC", 
+            "website_slug": "zcash", 
+            "rank": 20, 
+            "circulating_supply": 4702181.0, 
+            "total_supply": 4702181.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 153.504459479, 
+                    "volume_24h": 130697787.992892, 
+                    "market_cap": 721805791.0, 
+                    "percent_change_1h": -0.91, 
+                    "percent_change_24h": 4.6, 
+                    "percent_change_7d": 10.45
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 74, 
+            "name": "Dogecoin", 
+            "symbol": "DOGE", 
+            "website_slug": "dogecoin", 
+            "rank": 21, 
+            "circulating_supply": 115946995483.0, 
+            "total_supply": 115946995483.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0056925129, 
+                    "volume_24h": 148232439.227694, 
+                    "market_cap": 660029770.0, 
+                    "percent_change_1h": 0.5, 
+                    "percent_change_24h": 53.59, 
+                    "percent_change_7d": 138.06
+                }
+            }, 
+            "last_updated": 1535804943
+        }, 
+        {
+            "id": 1808, 
+            "name": "OmiseGO", 
+            "symbol": "OMG", 
+            "website_slug": "omisego", 
+            "rank": 22, 
+            "circulating_supply": 140245398.0, 
+            "total_supply": 140245398.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 4.3251613777, 
+                    "volume_24h": 19913258.3353771, 
+                    "market_cap": 606583980.0, 
+                    "percent_change_1h": -1.06, 
+                    "percent_change_24h": 1.87, 
+                    "percent_change_7d": 14.88
+                }
+            }, 
+            "last_updated": 1535804961
+        }, 
+        {
+            "id": 666, 
+            "name": "AurumCoin", 
+            "symbol": "AU", 
+            "website_slug": "aurumcoin", 
+            "rank": 23, 
+            "circulating_supply": 297999.0, 
+            "total_supply": 297999.0, 
+            "max_supply": 300000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 1786.32836547, 
+                    "volume_24h": 5966.8972806204, 
+                    "market_cap": 532323365.0, 
+                    "percent_change_1h": 0.02, 
+                    "percent_change_24h": 5749.24, 
+                    "percent_change_7d": 7534.46
+                }
+            }, 
+            "last_updated": 1535791286
+        }, 
+        {
+            "id": 1214, 
+            "name": "Lisk", 
+            "symbol": "LSK", 
+            "website_slug": "lisk", 
+            "rank": 24, 
+            "circulating_supply": 109662094.0, 
+            "total_supply": 124903360.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 4.5996898054, 
+                    "volume_24h": 5981533.89123851, 
+                    "market_cap": 504411618.0, 
+                    "percent_change_1h": -0.91, 
+                    "percent_change_24h": -1.68, 
+                    "percent_change_7d": -12.33
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 2566, 
+            "name": "Ontology", 
+            "symbol": "ONT", 
+            "website_slug": "ontology", 
+            "rank": 25, 
+            "circulating_supply": 184206203.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 2.5763721624, 
+                    "volume_24h": 91414758.163818, 
+                    "market_cap": 474583734.0, 
+                    "percent_change_1h": -1.09, 
+                    "percent_change_24h": 3.67, 
+                    "percent_change_7d": 16.96
+                }
+            }, 
+            "last_updated": 1535804974
+        }, 
+        {
+            "id": 372, 
+            "name": "Bytecoin", 
+            "symbol": "BCN", 
+            "website_slug": "bytecoin-bcn", 
+            "rank": 26, 
+            "circulating_supply": 184038517638.0, 
+            "total_supply": 184038517638.0, 
+            "max_supply": 184470000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0024791603, 
+                    "volume_24h": 9550258.45253846, 
+                    "market_cap": 456260989.0, 
+                    "percent_change_1h": -1.48, 
+                    "percent_change_24h": 16.39, 
+                    "percent_change_7d": 42.08
+                }
+            }, 
+            "last_updated": 1535804953
+        }, 
+        {
+            "id": 1684, 
+            "name": "Qtum", 
+            "symbol": "QTUM", 
+            "website_slug": "qtum", 
+            "rank": 27, 
+            "circulating_supply": 88857848.0, 
+            "total_supply": 100857848.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 4.7969025695, 
+                    "volume_24h": 118728814.894361, 
+                    "market_cap": 426242439.0, 
+                    "percent_change_1h": -1.12, 
+                    "percent_change_24h": 3.25, 
+                    "percent_change_7d": 14.55
+                }
+            }, 
+            "last_updated": 1535804972
+        }, 
+        {
+            "id": 1896, 
+            "name": "0x", 
+            "symbol": "ZRX", 
+            "website_slug": "0x", 
+            "rank": 28, 
+            "circulating_supply": 537482115.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.7855917221, 
+                    "volume_24h": 13842708.5390796, 
+                    "market_cap": 422241500.0, 
+                    "percent_change_1h": -1.36, 
+                    "percent_change_24h": 2.44, 
+                    "percent_change_7d": 9.7
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1567, 
+            "name": "Nano", 
+            "symbol": "NANO", 
+            "website_slug": "nano", 
+            "rank": 29, 
+            "circulating_supply": 133248289.0, 
+            "total_supply": 133248289.0, 
+            "max_supply": 133248290.0, 
+            "quotes": {
+                "USD": {
+                    "price": 3.1079827873, 
+                    "volume_24h": 19228129.3358119, 
+                    "market_cap": 414133389.0, 
+                    "percent_change_1h": -1.94, 
+                    "percent_change_24h": 2.77, 
+                    "percent_change_7d": 18.51
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 2083, 
+            "name": "Bitcoin Gold", 
+            "symbol": "BTG", 
+            "website_slug": "bitcoin-gold", 
+            "rank": 30, 
+            "circulating_supply": 17210011.0, 
+            "total_supply": 17310011.0, 
+            "max_supply": 21000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 21.5239853652, 
+                    "volume_24h": 13734398.6605577, 
+                    "market_cap": 370428027.0, 
+                    "percent_change_1h": -0.61, 
+                    "percent_change_24h": -1.95, 
+                    "percent_change_7d": 6.76
+                }
+            }, 
+            "last_updated": 1535804970
+        }, 
+        {
+            "id": 2099, 
+            "name": "ICON", 
+            "symbol": "ICX", 
+            "website_slug": "icon", 
+            "rank": 31, 
+            "circulating_supply": 387431340.0, 
+            "total_supply": 800460000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.9380344471, 
+                    "volume_24h": 35713071.5352846, 
+                    "market_cap": 363423943.0, 
+                    "percent_change_1h": -1.74, 
+                    "percent_change_24h": 5.51, 
+                    "percent_change_7d": 31.6
+                }
+            }, 
+            "last_updated": 1535804970
+        }, 
+        {
+            "id": 1168, 
+            "name": "Decred", 
+            "symbol": "DCR", 
+            "website_slug": "decred", 
+            "rank": 32, 
+            "circulating_supply": 8391010.0, 
+            "total_supply": 8391010.0, 
+            "max_supply": 21000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 43.2403383477, 
+                    "volume_24h": 985735.15170305, 
+                    "market_cap": 362830130.0, 
+                    "percent_change_1h": -0.11, 
+                    "percent_change_24h": 2.43, 
+                    "percent_change_7d": 9.45
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 109, 
+            "name": "DigiByte", 
+            "symbol": "DGB", 
+            "website_slug": "digibyte", 
+            "rank": 33, 
+            "circulating_supply": 10736379510.0, 
+            "total_supply": 10736379510.0, 
+            "max_supply": 21000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0332641379, 
+                    "volume_24h": 10814833.641075, 
+                    "market_cap": 357136409.0, 
+                    "percent_change_1h": -1.48, 
+                    "percent_change_24h": 7.0, 
+                    "percent_change_7d": 27.87
+                }
+            }, 
+            "last_updated": 1535804951
+        }, 
+        {
+            "id": 2469, 
+            "name": "Zilliqa", 
+            "symbol": "ZIL", 
+            "website_slug": "zilliqa", 
+            "rank": 34, 
+            "circulating_supply": 7615682516.0, 
+            "total_supply": 12600000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0454578837, 
+                    "volume_24h": 13151438.3086415, 
+                    "market_cap": 346192810.0, 
+                    "percent_change_1h": -0.36, 
+                    "percent_change_24h": 4.23, 
+                    "percent_change_7d": 15.58
+                }
+            }, 
+            "last_updated": 1535804975
+        }, 
+        {
+            "id": 463, 
+            "name": "BitShares", 
+            "symbol": "BTS", 
+            "website_slug": "bitshares", 
+            "rank": 35, 
+            "circulating_supply": 2655390000.0, 
+            "total_supply": 2655390000.0, 
+            "max_supply": 3600570502.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1209015997, 
+                    "volume_24h": 7025539.15505851, 
+                    "market_cap": 321040899.0, 
+                    "percent_change_1h": -1.13, 
+                    "percent_change_24h": 5.04, 
+                    "percent_change_7d": 12.55
+                }
+            }, 
+            "last_updated": 1535804955
+        }, 
+        {
+            "id": 1518, 
+            "name": "Maker", 
+            "symbol": "MKR", 
+            "website_slug": "maker", 
+            "rank": 36, 
+            "circulating_supply": 668228.0, 
+            "total_supply": 1000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 466.171465317, 
+                    "volume_24h": 325190.550351731, 
+                    "market_cap": 311508719.0, 
+                    "percent_change_1h": -0.99, 
+                    "percent_change_24h": 7.44, 
+                    "percent_change_7d": 5.16
+                }
+            }, 
+            "last_updated": 1535804960
+        }, 
+        {
+            "id": 1700, 
+            "name": "Aeternity", 
+            "symbol": "AE", 
+            "website_slug": "aeternity", 
+            "rank": 37, 
+            "circulating_supply": 233020472.0, 
+            "total_supply": 273685830.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.1732345235, 
+                    "volume_24h": 4583368.62845005, 
+                    "market_cap": 273387663.0, 
+                    "percent_change_1h": -1.44, 
+                    "percent_change_24h": 4.78, 
+                    "percent_change_7d": 14.02
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1230, 
+            "name": "Steem", 
+            "symbol": "STEEM", 
+            "website_slug": "steem", 
+            "rank": 38, 
+            "circulating_supply": 274347461.0, 
+            "total_supply": 291321555.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.9600835114, 
+                    "volume_24h": 1535196.10767243, 
+                    "market_cap": 263396474.0, 
+                    "percent_change_1h": -0.82, 
+                    "percent_change_24h": 3.96, 
+                    "percent_change_7d": 7.15
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 1042, 
+            "name": "Siacoin", 
+            "symbol": "SC", 
+            "website_slug": "siacoin", 
+            "rank": 39, 
+            "circulating_supply": 36595134969.0, 
+            "total_supply": 36595134969.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0070490074, 
+                    "volume_24h": 11347953.4963399, 
+                    "market_cap": 257959378.0, 
+                    "percent_change_1h": -2.37, 
+                    "percent_change_24h": 16.99, 
+                    "percent_change_7d": 28.07
+                }
+            }, 
+            "last_updated": 1535804962
+        }, 
+        {
+            "id": 693, 
+            "name": "Verge", 
+            "symbol": "XVG", 
+            "website_slug": "verge", 
+            "rank": 40, 
+            "circulating_supply": 15172086051.0, 
+            "total_supply": 15172086051.0, 
+            "max_supply": 16555000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0157046675, 
+                    "volume_24h": 9574778.85880277, 
+                    "market_cap": 238272567.0, 
+                    "percent_change_1h": -1.53, 
+                    "percent_change_24h": 11.38, 
+                    "percent_change_7d": 16.52
+                }
+            }, 
+            "last_updated": 1535804959
+        }, 
+        {
+            "id": 1697, 
+            "name": "Basic Attention Token", 
+            "symbol": "BAT", 
+            "website_slug": "basic-attention-token", 
+            "rank": 41, 
+            "circulating_supply": 1000000000.0, 
+            "total_supply": 1500000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.2238568545, 
+                    "volume_24h": 3460907.75669038, 
+                    "market_cap": 223856855.0, 
+                    "percent_change_1h": -1.08, 
+                    "percent_change_24h": 1.68, 
+                    "percent_change_7d": 7.07
+                }
+            }, 
+            "last_updated": 1535804963
+        }, 
+        {
+            "id": 1104, 
+            "name": "Augur", 
+            "symbol": "REP", 
+            "website_slug": "augur", 
+            "rank": 42, 
+            "circulating_supply": 11000000.0, 
+            "total_supply": 11000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 19.7543809346, 
+                    "volume_24h": 3917680.82644533, 
+                    "market_cap": 217298190.0, 
+                    "percent_change_1h": -0.84, 
+                    "percent_change_24h": 0.23, 
+                    "percent_change_7d": 3.82
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 1274, 
+            "name": "Waves", 
+            "symbol": "WAVES", 
+            "website_slug": "waves", 
+            "rank": 43, 
+            "circulating_supply": 100000000.0, 
+            "total_supply": 100000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 2.133710042, 
+                    "volume_24h": 3948661.56466932, 
+                    "market_cap": 213371004.0, 
+                    "percent_change_1h": -0.45, 
+                    "percent_change_24h": 1.83, 
+                    "percent_change_7d": -9.31
+                }
+            }, 
+            "last_updated": 1535804967
+        }, 
+        {
+            "id": 1866, 
+            "name": "Bytom", 
+            "symbol": "BTM", 
+            "website_slug": "bytom", 
+            "rank": 44, 
+            "circulating_supply": 1002499275.0, 
+            "total_supply": 1407000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.2108825014, 
+                    "volume_24h": 47305053.4096956, 
+                    "market_cap": 211409555.0, 
+                    "percent_change_1h": -1.19, 
+                    "percent_change_24h": 6.47, 
+                    "percent_change_7d": 7.18
+                }
+            }, 
+            "last_updated": 1535804971
+        }, 
+        {
+            "id": 2222, 
+            "name": "Bitcoin Diamond", 
+            "symbol": "BCD", 
+            "website_slug": "bitcoin-diamond", 
+            "rank": 45, 
+            "circulating_supply": 153756875.0, 
+            "total_supply": 156756875.0, 
+            "max_supply": 210000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 1.3499930147, 
+                    "volume_24h": 1852673.85518805, 
+                    "market_cap": 207570707.0, 
+                    "percent_change_1h": 3.8, 
+                    "percent_change_24h": 5.69, 
+                    "percent_change_7d": 4.29
+                }
+            }, 
+            "last_updated": 1535804977
+        }, 
+        {
+            "id": 2603, 
+            "name": "Pundi X", 
+            "symbol": "NPXS", 
+            "website_slug": "pundi-x", 
+            "rank": 46, 
+            "circulating_supply": 107040901033.0, 
+            "total_supply": 280255193861.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0018960811, 
+                    "volume_24h": 10189715.7100805, 
+                    "market_cap": 202958231.0, 
+                    "percent_change_1h": -0.84, 
+                    "percent_change_24h": 2.91, 
+                    "percent_change_7d": 14.06
+                }
+            }, 
+            "last_updated": 1535804977
+        }, 
+        {
+            "id": 1925, 
+            "name": "Waltonchain", 
+            "symbol": "WTC", 
+            "website_slug": "waltonchain", 
+            "rank": 47, 
+            "circulating_supply": 40144099.0, 
+            "total_supply": 70000000.0, 
+            "max_supply": 100000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 4.8054730469, 
+                    "volume_24h": 12844642.4075371, 
+                    "market_cap": 192911388.0, 
+                    "percent_change_1h": -1.05, 
+                    "percent_change_24h": 2.76, 
+                    "percent_change_7d": 40.88
+                }
+            }, 
+            "last_updated": 1535804969
+        }, 
+        {
+            "id": 1703, 
+            "name": "Metaverse ETP", 
+            "symbol": "ETP", 
+            "website_slug": "metaverse", 
+            "rank": 48, 
+            "circulating_supply": 50198246.0, 
+            "total_supply": 56272379.0, 
+            "max_supply": 100000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 3.3758063645, 
+                    "volume_24h": 3585369.35813662, 
+                    "market_cap": 169459558.0, 
+                    "percent_change_1h": -1.82, 
+                    "percent_change_24h": 2.62, 
+                    "percent_change_7d": 26.98
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 1455, 
+            "name": "Golem", 
+            "symbol": "GNT", 
+            "website_slug": "golem-network-tokens", 
+            "rank": 49, 
+            "circulating_supply": 959242000.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1761912361, 
+                    "volume_24h": 4805989.16174491, 
+                    "market_cap": 169010034.0, 
+                    "percent_change_1h": -1.68, 
+                    "percent_change_24h": 3.21, 
+                    "percent_change_7d": 16.93
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 1343, 
+            "name": "Stratis", 
+            "symbol": "STRAT", 
+            "website_slug": "stratis", 
+            "rank": 50, 
+            "circulating_supply": 98996809.0, 
+            "total_supply": 98996809.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.6907188727, 
+                    "volume_24h": 1595235.60620891, 
+                    "market_cap": 167375774.0, 
+                    "percent_change_1h": 1.02, 
+                    "percent_change_24h": 9.6, 
+                    "percent_change_7d": 13.19
+                }
+            }, 
+            "last_updated": 1535804966
+        }, 
+        {
+            "id": 1789, 
+            "name": "Populous", 
+            "symbol": "PPT", 
+            "website_slug": "populous", 
+            "rank": 51, 
+            "circulating_supply": 37004027.0, 
+            "total_supply": 53252246.0, 
+            "max_supply": 53252246.0, 
+            "quotes": {
+                "USD": {
+                    "price": 4.375094719, 
+                    "volume_24h": 3643751.47420693, 
+                    "market_cap": 161896123.0, 
+                    "percent_change_1h": -1.01, 
+                    "percent_change_24h": 1.87, 
+                    "percent_change_7d": -3.89
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 2606, 
+            "name": "Wanchain", 
+            "symbol": "WAN", 
+            "website_slug": "wanchain", 
+            "rank": 52, 
+            "circulating_supply": 106152493.0, 
+            "total_supply": 210000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.4157378072, 
+                    "volume_24h": 5504007.60416395, 
+                    "market_cap": 150284097.0, 
+                    "percent_change_1h": 0.4, 
+                    "percent_change_24h": 10.44, 
+                    "percent_change_7d": 31.81
+                }
+            }, 
+            "last_updated": 1535804981
+        }, 
+        {
+            "id": 1759, 
+            "name": "Status", 
+            "symbol": "SNT", 
+            "website_slug": "status", 
+            "rank": 53, 
+            "circulating_supply": 3470483788.0, 
+            "total_supply": 6804870174.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0426003093, 
+                    "volume_24h": 9264881.84325462, 
+                    "market_cap": 147843683.0, 
+                    "percent_change_1h": -1.32, 
+                    "percent_change_24h": 4.89, 
+                    "percent_change_7d": 6.37
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1521, 
+            "name": "Komodo", 
+            "symbol": "KMD", 
+            "website_slug": "komodo", 
+            "rank": 54, 
+            "circulating_supply": 109440882.0, 
+            "total_supply": 109440882.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.3408561093, 
+                    "volume_24h": 620441.207950338, 
+                    "market_cap": 146744475.0, 
+                    "percent_change_1h": -0.99, 
+                    "percent_change_24h": 3.78, 
+                    "percent_change_7d": 18.28
+                }
+            }, 
+            "last_updated": 1535804963
+        }, 
+        {
+            "id": 2403, 
+            "name": "MOAC", 
+            "symbol": "MOAC", 
+            "website_slug": "moac", 
+            "rank": 55, 
+            "circulating_supply": 62463334.0, 
+            "total_supply": 151205864.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 2.2540298882, 
+                    "volume_24h": 382611.487043263, 
+                    "market_cap": 140794221.0, 
+                    "percent_change_1h": -0.63, 
+                    "percent_change_24h": -2.47, 
+                    "percent_change_7d": -22.22
+                }
+            }, 
+            "last_updated": 1535804974
+        }, 
+        {
+            "id": 2021, 
+            "name": "RChain", 
+            "symbol": "RHOC", 
+            "website_slug": "rchain", 
+            "rank": 56, 
+            "circulating_supply": 380969669.0, 
+            "total_supply": 870663574.0, 
+            "max_supply": 1000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.3654251076, 
+                    "volume_24h": 295903.340801821, 
+                    "market_cap": 139215882.0, 
+                    "percent_change_1h": -0.75, 
+                    "percent_change_24h": -6.0, 
+                    "percent_change_7d": -10.92
+                }
+            }, 
+            "last_updated": 1535804962
+        }, 
+        {
+            "id": 1903, 
+            "name": "Hshare", 
+            "symbol": "HSR", 
+            "website_slug": "hshare", 
+            "rank": 57, 
+            "circulating_supply": 43427238.0, 
+            "total_supply": 43427238.0, 
+            "max_supply": 84000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 3.165919789, 
+                    "volume_24h": 14861479.6008052, 
+                    "market_cap": 137487154.0, 
+                    "percent_change_1h": -0.24, 
+                    "percent_change_24h": 1.56, 
+                    "percent_change_7d": 13.1
+                }
+            }, 
+            "last_updated": 1535804969
+        }, 
+        {
+            "id": 2405, 
+            "name": "IOST", 
+            "symbol": "IOST", 
+            "website_slug": "iostoken", 
+            "rank": 58, 
+            "circulating_supply": 8400000000.0, 
+            "total_supply": 21000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0158628468, 
+                    "volume_24h": 12340067.3165761, 
+                    "market_cap": 133247913.0, 
+                    "percent_change_1h": -1.37, 
+                    "percent_change_24h": 6.96, 
+                    "percent_change_7d": 13.03
+                }
+            }, 
+            "last_updated": 1535804974
+        }, 
+        {
+            "id": 2087, 
+            "name": "KuCoin Shares", 
+            "symbol": "KCS", 
+            "website_slug": "kucoin-shares", 
+            "rank": 59, 
+            "circulating_supply": 90730576.0, 
+            "total_supply": 180730576.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.4292701758, 
+                    "volume_24h": 190343.320391869, 
+                    "market_cap": 129678506.0, 
+                    "percent_change_1h": 0.3, 
+                    "percent_change_24h": 2.5, 
+                    "percent_change_7d": 4.61
+                }
+            }, 
+            "last_updated": 1535804970
+        }, 
+        {
+            "id": 2062, 
+            "name": "Aion", 
+            "symbol": "AION", 
+            "website_slug": "aion", 
+            "rank": 60, 
+            "circulating_supply": 206986994.0, 
+            "total_supply": 465934587.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.6130032926, 
+                    "volume_24h": 3059670.01785891, 
+                    "market_cap": 126883709.0, 
+                    "percent_change_1h": -2.13, 
+                    "percent_change_24h": -1.53, 
+                    "percent_change_7d": -0.65
+                }
+            }, 
+            "last_updated": 1535804971
+        }, 
+        {
+            "id": 291, 
+            "name": "MaidSafeCoin", 
+            "symbol": "MAID", 
+            "website_slug": "maidsafecoin", 
+            "rank": 61, 
+            "circulating_supply": 452552412.0, 
+            "total_supply": 452552412.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.279310314, 
+                    "volume_24h": 1522693.77440247, 
+                    "market_cap": 126402556.0, 
+                    "percent_change_1h": -0.48, 
+                    "percent_change_24h": 6.37, 
+                    "percent_change_7d": 18.34
+                }
+            }, 
+            "last_updated": 1535804949
+        }, 
+        {
+            "id": 2608, 
+            "name": "Mithril", 
+            "symbol": "MITH", 
+            "website_slug": "mithril", 
+            "rank": 62, 
+            "circulating_supply": 376975425.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.3219539435, 
+                    "volume_24h": 28366434.2157844, 
+                    "market_cap": 121368725.0, 
+                    "percent_change_1h": -0.18, 
+                    "percent_change_24h": 1.82, 
+                    "percent_change_7d": 1.64
+                }
+            }, 
+            "last_updated": 1535804979
+        }, 
+        {
+            "id": 1876, 
+            "name": "Dentacoin", 
+            "symbol": "DCN", 
+            "website_slug": "dentacoin", 
+            "rank": 63, 
+            "circulating_supply": 325226613094.0, 
+            "total_supply": 1963173416169.0, 
+            "max_supply": 8000000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0003636616, 
+                    "volume_24h": 105644.417551955, 
+                    "market_cap": 118272443.0, 
+                    "percent_change_1h": -1.7, 
+                    "percent_change_24h": 5.95, 
+                    "percent_change_7d": -14.58
+                }
+            }, 
+            "last_updated": 1535804974
+        }, 
+        {
+            "id": 118, 
+            "name": "ReddCoin", 
+            "symbol": "RDD", 
+            "website_slug": "reddcoin", 
+            "rank": 64, 
+            "circulating_supply": 28808713174.0, 
+            "total_supply": 28808713174.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0040089321, 
+                    "volume_24h": 8905671.50510451, 
+                    "market_cap": 115492176.0, 
+                    "percent_change_1h": -0.58, 
+                    "percent_change_24h": 33.21, 
+                    "percent_change_7d": 57.75
+                }
+            }, 
+            "last_updated": 1535804949
+        }, 
+        {
+            "id": 1320, 
+            "name": "Ardor", 
+            "symbol": "ARDR", 
+            "website_slug": "ardor", 
+            "rank": 65, 
+            "circulating_supply": 998999495.0, 
+            "total_supply": 998999495.0, 
+            "max_supply": 998999495.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1151428098, 
+                    "volume_24h": 1140368.85682894, 
+                    "market_cap": 115027609.0, 
+                    "percent_change_1h": -1.38, 
+                    "percent_change_24h": 1.48, 
+                    "percent_change_7d": 4.79
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1975, 
+            "name": "Chainlink", 
+            "symbol": "LINK", 
+            "website_slug": "chainlink", 
+            "rank": 66, 
+            "circulating_supply": 350000000.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.3211793701, 
+                    "volume_24h": 791751.196908498, 
+                    "market_cap": 112412780.0, 
+                    "percent_change_1h": -1.58, 
+                    "percent_change_24h": 3.93, 
+                    "percent_change_7d": -1.97
+                }
+            }, 
+            "last_updated": 1535804972
+        }, 
+        {
+            "id": 2682, 
+            "name": "Holo", 
+            "symbol": "HOT", 
+            "website_slug": "holo", 
+            "rank": 67, 
+            "circulating_supply": 133214575156.0, 
+            "total_supply": 177619433541.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0008150584, 
+                    "volume_24h": 3899275.60119974, 
+                    "market_cap": 108577660.0, 
+                    "percent_change_1h": -0.29, 
+                    "percent_change_24h": 2.73, 
+                    "percent_change_7d": 32.86
+                }
+            }, 
+            "last_updated": 1535804980
+        }, 
+        {
+            "id": 2502, 
+            "name": "Huobi Token", 
+            "symbol": "HT", 
+            "website_slug": "huobi-token", 
+            "rank": 68, 
+            "circulating_supply": 50000200.0, 
+            "total_supply": 500000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 2.141089253, 
+                    "volume_24h": 27655220.3838396, 
+                    "market_cap": 107054891.0, 
+                    "percent_change_1h": -1.21, 
+                    "percent_change_24h": 0.94, 
+                    "percent_change_7d": 2.24
+                }
+            }, 
+            "last_updated": 1535804976
+        }, 
+        {
+            "id": 2027, 
+            "name": "Cryptonex", 
+            "symbol": "CNX", 
+            "website_slug": "cryptonex", 
+            "rank": 69, 
+            "circulating_supply": 45440359.0, 
+            "total_supply": 106877985.0, 
+            "max_supply": 210000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 2.2654462532, 
+                    "volume_24h": 3724292.49733131, 
+                    "market_cap": 102942691.0, 
+                    "percent_change_1h": 0.14, 
+                    "percent_change_24h": 2.45, 
+                    "percent_change_7d": 5.56
+                }
+            }, 
+            "last_updated": 1535804969
+        }, 
+        {
+            "id": 1229, 
+            "name": "DigixDAO", 
+            "symbol": "DGD", 
+            "website_slug": "digixdao", 
+            "rank": 70, 
+            "circulating_supply": 2000000.0, 
+            "total_supply": 2000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 51.4047224676, 
+                    "volume_24h": 443391.341549882, 
+                    "market_cap": 102809445.0, 
+                    "percent_change_1h": -1.3, 
+                    "percent_change_24h": 0.25, 
+                    "percent_change_7d": -6.56
+                }
+            }, 
+            "last_updated": 1535804962
+        }, 
+        {
+            "id": 2299, 
+            "name": "aelf", 
+            "symbol": "ELF", 
+            "website_slug": "aelf", 
+            "rank": 71, 
+            "circulating_supply": 250000000.0, 
+            "total_supply": 280000000.0, 
+            "max_supply": 1000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.4106778514, 
+                    "volume_24h": 7291583.53178861, 
+                    "market_cap": 102669463.0, 
+                    "percent_change_1h": -1.53, 
+                    "percent_change_24h": 3.45, 
+                    "percent_change_7d": 8.77
+                }
+            }, 
+            "last_updated": 1535804975
+        }, 
+        {
+            "id": 2349, 
+            "name": "Mixin", 
+            "symbol": "XIN", 
+            "website_slug": "mixin", 
+            "rank": 72, 
+            "circulating_supply": 442533.0, 
+            "total_supply": 1000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 221.603999723, 
+                    "volume_24h": 76275.2829177173, 
+                    "market_cap": 98067145.0, 
+                    "percent_change_1h": -0.95, 
+                    "percent_change_24h": -0.98, 
+                    "percent_change_7d": -0.17
+                }
+            }, 
+            "last_updated": 1535804974
+        }, 
+        {
+            "id": 1586, 
+            "name": "Ark", 
+            "symbol": "ARK", 
+            "website_slug": "ark", 
+            "rank": 73, 
+            "circulating_supply": 104880126.0, 
+            "total_supply": 136130126.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.9090596065, 
+                    "volume_24h": 380068.245938884, 
+                    "market_cap": 95342286.0, 
+                    "percent_change_1h": -0.69, 
+                    "percent_change_24h": 0.95, 
+                    "percent_change_7d": 8.6
+                }
+            }, 
+            "last_updated": 1535804961
+        }, 
+        {
+            "id": 2575, 
+            "name": "Bitcoin Private", 
+            "symbol": "BTCP", 
+            "website_slug": "bitcoin-private", 
+            "rank": 74, 
+            "circulating_supply": 20524490.0, 
+            "total_supply": 20524490.0, 
+            "max_supply": 21000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 4.5436314103, 
+                    "volume_24h": 127157.936181058, 
+                    "market_cap": 93255718.0, 
+                    "percent_change_1h": -0.67, 
+                    "percent_change_24h": 1.83, 
+                    "percent_change_7d": 7.1
+                }
+            }, 
+            "last_updated": 1535804981
+        }, 
+        {
+            "id": 213, 
+            "name": "MonaCoin", 
+            "symbol": "MONA", 
+            "website_slug": "monacoin", 
+            "rank": 75, 
+            "circulating_supply": 61964675.0, 
+            "total_supply": 61964675.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.4968211086, 
+                    "volume_24h": 333768.363277553, 
+                    "market_cap": 92750033.0, 
+                    "percent_change_1h": -0.49, 
+                    "percent_change_24h": 2.1, 
+                    "percent_change_7d": -4.28
+                }
+            }, 
+            "last_updated": 1535804951
+        }, 
+        {
+            "id": 1757, 
+            "name": "FunFair", 
+            "symbol": "FUN", 
+            "website_slug": "funfair", 
+            "rank": 76, 
+            "circulating_supply": 5010848189.0, 
+            "total_supply": 10999873621.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0178968512, 
+                    "volume_24h": 432736.347520463, 
+                    "market_cap": 89678405.0, 
+                    "percent_change_1h": -0.76, 
+                    "percent_change_24h": 3.75, 
+                    "percent_change_7d": 5.22
+                }
+            }, 
+            "last_updated": 1535804969
+        }, 
+        {
+            "id": 1727, 
+            "name": "Bancor", 
+            "symbol": "BNT", 
+            "website_slug": "bancor", 
+            "rank": 77, 
+            "circulating_supply": 52830796.0, 
+            "total_supply": 77499994.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.6823606095, 
+                    "volume_24h": 3118595.83042958, 
+                    "market_cap": 88880450.0, 
+                    "percent_change_1h": -1.26, 
+                    "percent_change_24h": 2.3, 
+                    "percent_change_7d": 4.67
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1908, 
+            "name": "Nebulas", 
+            "symbol": "NAS", 
+            "website_slug": "nebulas-token", 
+            "rank": 78, 
+            "circulating_supply": 45500000.0, 
+            "total_supply": 100000000.0, 
+            "max_supply": 100000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 1.9524893357, 
+                    "volume_24h": 6559026.09886412, 
+                    "market_cap": 88838265.0, 
+                    "percent_change_1h": -0.43, 
+                    "percent_change_24h": 8.0, 
+                    "percent_change_7d": 10.95
+                }
+            }, 
+            "last_updated": 1535804971
+        }, 
+        {
+            "id": 1750, 
+            "name": "GXChain", 
+            "symbol": "GXS", 
+            "website_slug": "gxchain", 
+            "rank": 79, 
+            "circulating_supply": 60000000.0, 
+            "total_supply": 100000000.0, 
+            "max_supply": 100000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 1.4782805137, 
+                    "volume_24h": 1385122.40961088, 
+                    "market_cap": 88696831.0, 
+                    "percent_change_1h": -0.68, 
+                    "percent_change_24h": 3.26, 
+                    "percent_change_7d": 5.54
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1698, 
+            "name": "Horizen", 
+            "symbol": "ZEN", 
+            "website_slug": "zencash", 
+            "rank": 80, 
+            "circulating_supply": 4622588.0, 
+            "total_supply": 4622588.0, 
+            "max_supply": 21000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 19.1189661631, 
+                    "volume_24h": 646761.281616981, 
+                    "market_cap": 88379094.0, 
+                    "percent_change_1h": -0.4, 
+                    "percent_change_24h": 3.72, 
+                    "percent_change_7d": -5.23
+                }
+            }, 
+            "last_updated": 1535804965
+        }, 
+        {
+            "id": 1966, 
+            "name": "Decentraland", 
+            "symbol": "MANA", 
+            "website_slug": "decentraland", 
+            "rank": 81, 
+            "circulating_supply": 1050141509.0, 
+            "total_supply": 2644403343.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0790385118, 
+                    "volume_24h": 3518408.14385216, 
+                    "market_cap": 83001622.0, 
+                    "percent_change_1h": -1.3, 
+                    "percent_change_24h": 4.12, 
+                    "percent_change_7d": 15.54
+                }
+            }, 
+            "last_updated": 1535804969
+        }, 
+        {
+            "id": 2213, 
+            "name": "QASH", 
+            "symbol": "QASH", 
+            "website_slug": "qash", 
+            "rank": 82, 
+            "circulating_supply": 350000000.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.2328205842, 
+                    "volume_24h": 909999.560205081, 
+                    "market_cap": 81487204.0, 
+                    "percent_change_1h": -0.05, 
+                    "percent_change_24h": 7.23, 
+                    "percent_change_7d": 2.43
+                }
+            }, 
+            "last_updated": 1535804972
+        }, 
+        {
+            "id": 2492, 
+            "name": "Elastos", 
+            "symbol": "ELA", 
+            "website_slug": "elastos", 
+            "rank": 83, 
+            "circulating_supply": 7929459.0, 
+            "total_supply": 33967975.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 10.271289437, 
+                    "volume_24h": 2962084.82430932, 
+                    "market_cap": 81445767.0, 
+                    "percent_change_1h": -0.97, 
+                    "percent_change_24h": 3.5, 
+                    "percent_change_7d": -2.41
+                }
+            }, 
+            "last_updated": 1535804974
+        }, 
+        {
+            "id": 2886, 
+            "name": "TaTaTu", 
+            "symbol": "TTU", 
+            "website_slug": "tatatu", 
+            "rank": 84, 
+            "circulating_supply": 96727971.0, 
+            "total_supply": 10000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.7973629505, 
+                    "volume_24h": 315370.030309419, 
+                    "market_cap": 77127300.0, 
+                    "percent_change_1h": -1.73, 
+                    "percent_change_24h": -3.9, 
+                    "percent_change_7d": 4.96
+                }
+            }, 
+            "last_updated": 1535804980
+        }, 
+        {
+            "id": 2874, 
+            "name": "Aurora", 
+            "symbol": "AOA", 
+            "website_slug": "aurora", 
+            "rank": 85, 
+            "circulating_supply": 3460155505.0, 
+            "total_supply": 10000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0222464695, 
+                    "volume_24h": 1119018.08648541, 
+                    "market_cap": 76976244.0, 
+                    "percent_change_1h": -0.54, 
+                    "percent_change_24h": 4.53, 
+                    "percent_change_7d": 26.01
+                }
+            }, 
+            "last_updated": 1535804983
+        }, 
+        {
+            "id": 2300, 
+            "name": "WAX", 
+            "symbol": "WAX", 
+            "website_slug": "wax", 
+            "rank": 86, 
+            "circulating_supply": 930901783.0, 
+            "total_supply": 1850000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0810986476, 
+                    "volume_24h": 430599.605857764, 
+                    "market_cap": 75494876.0, 
+                    "percent_change_1h": 1.22, 
+                    "percent_change_24h": 8.35, 
+                    "percent_change_7d": 13.35
+                }
+            }, 
+            "last_updated": 1535804972
+        }, 
+        {
+            "id": 2132, 
+            "name": "Power Ledger", 
+            "symbol": "POWR", 
+            "website_slug": "power-ledger", 
+            "rank": 87, 
+            "circulating_supply": 378540438.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1988462595, 
+                    "volume_24h": 2033886.11826769, 
+                    "market_cap": 75271350.0, 
+                    "percent_change_1h": -1.39, 
+                    "percent_change_24h": 2.28, 
+                    "percent_change_7d": 3.94
+                }
+            }, 
+            "last_updated": 1535804972
+        }, 
+        {
+            "id": 66, 
+            "name": "Nxt", 
+            "symbol": "NXT", 
+            "website_slug": "nxt", 
+            "rank": 88, 
+            "circulating_supply": 998999942.0, 
+            "total_supply": 998999942.0, 
+            "max_supply": 1000000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 0.0753312574, 
+                    "volume_24h": 2559720.05206085, 
+                    "market_cap": 75255922.0, 
+                    "percent_change_1h": -0.88, 
+                    "percent_change_24h": 6.55, 
+                    "percent_change_7d": 9.22
+                }
+            }, 
+            "last_updated": 1535804944
+        }, 
+        {
+            "id": 1982, 
+            "name": "Kyber Network", 
+            "symbol": "KNC", 
+            "website_slug": "kyber-network", 
+            "rank": 89, 
+            "circulating_supply": 134132697.0, 
+            "total_supply": 215625349.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.5480480524, 
+                    "volume_24h": 2644151.98623955, 
+                    "market_cap": 73511163.0, 
+                    "percent_change_1h": -0.23, 
+                    "percent_change_24h": 2.21, 
+                    "percent_change_7d": 7.88
+                }
+            }, 
+            "last_updated": 1535804985
+        }, 
+        {
+            "id": 2563, 
+            "name": "TrueUSD", 
+            "symbol": "TUSD", 
+            "website_slug": "trueusd", 
+            "rank": 90, 
+            "circulating_supply": 73008882.0, 
+            "total_supply": 73008882.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.0008172531, 
+                    "volume_24h": 12268519.7016654, 
+                    "market_cap": 73068549.0, 
+                    "percent_change_1h": 0.06, 
+                    "percent_change_24h": -0.19, 
+                    "percent_change_7d": -0.21
+                }
+            }, 
+            "last_updated": 1535804974
+        }, 
+        {
+            "id": 1993, 
+            "name": "Kin", 
+            "symbol": "KIN", 
+            "website_slug": "kin", 
+            "rank": 91, 
+            "circulating_supply": 756097560976.0, 
+            "total_supply": 10000000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 9.6297e-05, 
+                    "volume_24h": 1007944.99941819, 
+                    "market_cap": 72809925.0, 
+                    "percent_change_1h": -1.29, 
+                    "percent_change_24h": -4.22, 
+                    "percent_change_7d": -11.49
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 2092, 
+            "name": "Nuls", 
+            "symbol": "NULS", 
+            "website_slug": "nuls", 
+            "rank": 92, 
+            "circulating_supply": 40000000.0, 
+            "total_supply": 40000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 1.8179423264, 
+                    "volume_24h": 5352111.55322469, 
+                    "market_cap": 72717693.0, 
+                    "percent_change_1h": -0.91, 
+                    "percent_change_24h": 1.96, 
+                    "percent_change_7d": 21.9
+                }
+            }, 
+            "last_updated": 1535804970
+        }, 
+        {
+            "id": 2588, 
+            "name": "Loom Network", 
+            "symbol": "LOOM", 
+            "website_slug": "loom-network", 
+            "rank": 93, 
+            "circulating_supply": 590690785.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1222370918, 
+                    "volume_24h": 2821367.83150797, 
+                    "market_cap": 72204324.0, 
+                    "percent_change_1h": -0.63, 
+                    "percent_change_24h": 2.21, 
+                    "percent_change_7d": 32.42
+                }
+            }, 
+            "last_updated": 1535804979
+        }, 
+        {
+            "id": 1414, 
+            "name": "ZCoin", 
+            "symbol": "XZC", 
+            "website_slug": "zcoin", 
+            "rank": 94, 
+            "circulating_supply": 5543870.0, 
+            "total_supply": 5543870.0, 
+            "max_supply": 21400000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 12.9569345364, 
+                    "volume_24h": 804536.524861365, 
+                    "market_cap": 71831561.0, 
+                    "percent_change_1h": -0.68, 
+                    "percent_change_24h": 2.1, 
+                    "percent_change_7d": -1.78
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 2246, 
+            "name": "CyberMiles", 
+            "symbol": "CMT", 
+            "website_slug": "cybermiles", 
+            "rank": 95, 
+            "circulating_supply": 695173307.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.102722478, 
+                    "volume_24h": 5344840.57203298, 
+                    "market_cap": 71409925.0, 
+                    "percent_change_1h": -1.08, 
+                    "percent_change_24h": 4.95, 
+                    "percent_change_7d": -1.83
+                }
+            }, 
+            "last_updated": 1535804963
+        }, 
+        {
+            "id": 1785, 
+            "name": "Gas", 
+            "symbol": "GAS", 
+            "website_slug": "gas", 
+            "rank": 96, 
+            "circulating_supply": 10128375.0, 
+            "total_supply": 17190378.0, 
+            "max_supply": 100000000.0, 
+            "quotes": {
+                "USD": {
+                    "price": 7.0116094187, 
+                    "volume_24h": 2997144.68996956, 
+                    "market_cap": 71016210.0, 
+                    "percent_change_1h": -3.31, 
+                    "percent_change_24h": 0.54, 
+                    "percent_change_7d": 26.75
+                }
+            }, 
+            "last_updated": 1535804970
+        }, 
+        {
+            "id": 1758, 
+            "name": "TenX", 
+            "symbol": "PAY", 
+            "website_slug": "tenx", 
+            "rank": 97, 
+            "circulating_supply": 109307861.0, 
+            "total_supply": 205218256.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.6480135966, 
+                    "volume_24h": 4682870.89672054, 
+                    "market_cap": 70832980.0, 
+                    "percent_change_1h": -0.85, 
+                    "percent_change_24h": 2.4, 
+                    "percent_change_7d": 11.49
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 1934, 
+            "name": "Loopring", 
+            "symbol": "LRC", 
+            "website_slug": "loopring", 
+            "rank": 98, 
+            "circulating_supply": 572074043.0, 
+            "total_supply": 1374956262.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1228478982, 
+                    "volume_24h": 1660976.6514891, 
+                    "market_cap": 70278094.0, 
+                    "percent_change_1h": -0.33, 
+                    "percent_change_24h": 2.83, 
+                    "percent_change_7d": 14.92
+                }
+            }, 
+            "last_updated": 1535804972
+        }, 
+        {
+            "id": 1776, 
+            "name": "MCO", 
+            "symbol": "MCO", 
+            "website_slug": "mco", 
+            "rank": 99, 
+            "circulating_supply": 15793831.0, 
+            "total_supply": 31587682.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 4.4291668521, 
+                    "volume_24h": 6611396.01749584, 
+                    "market_cap": 69953513.0, 
+                    "percent_change_1h": -0.15, 
+                    "percent_change_24h": 1.26, 
+                    "percent_change_7d": 2.45
+                }
+            }, 
+            "last_updated": 1535804968
+        }, 
+        {
+            "id": 2416, 
+            "name": "Theta Token", 
+            "symbol": "THETA", 
+            "website_slug": "theta-token", 
+            "rank": 100, 
+            "circulating_supply": 664002689.0, 
+            "total_supply": 1000000000.0, 
+            "max_supply": null, 
+            "quotes": {
+                "USD": {
+                    "price": 0.1045087631, 
+                    "volume_24h": 2709423.87394687, 
+                    "market_cap": 69394100.0, 
+                    "percent_change_1h": 1.16, 
+                    "percent_change_24h": 4.12, 
+                    "percent_change_7d": 0.72
+                }
+            }, 
+            "last_updated": 1535804972
+        }
+    ], 
+    "metadata": {
+        "timestamp": 1535804464, 
+        "num_cryptocurrencies": 1910, 
+        "error": null
+    }
+}
