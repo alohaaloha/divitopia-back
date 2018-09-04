@@ -8,11 +8,11 @@ Fetching data used for price conversation from free APIs evey 5min/1hr (because 
 
 Fiat prices - max 1000 request each month (~1 request per hour)
 
-0 * * * * fetch-fiat.sh
+0 * * * * cd /root/divitopia-back/ && sh fetch-fiat.sh
 
 Crypto prices - max 30 requests per minute & API is updated every 5min
 
-*/5 * * * * fetch-crypto.sh
+*/5 * * * * cd /root/divitopia-back/ && sh fetch-crypto.sh
 
 
 ##### REQUIREMENTS
