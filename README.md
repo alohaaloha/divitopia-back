@@ -17,7 +17,9 @@ Crypto prices - max 30 requests per minute & API is updated every 5min
 
 ##### REQUIREMENTS
 
-Node
+Node 
+
+npm install -g http-server
 
 ##### RUN
 
