@@ -10,7 +10,7 @@ Fiat prices - max 1000 request each month (~1 request per hour)
 
 0 * * * * cd /root/divitopia-back/ && sh fetch-fiat.sh
 
-Crypto prices - max 30 requests per minute & API is updated every 5min
+Crypto prices - 333 requests daily && max 30 requests per minute
 
 */5 * * * * cd /root/divitopia-back/ && sh fetch-crypto.sh
 
